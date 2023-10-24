@@ -17,6 +17,10 @@ This project will hold progress and development of the Control Project
 7. Hard wire connection for pump/lights to relay (screw terminals)
 8. 120V Power input receptacle for relays (IEC-A-3)
 
+### PCB Design
+1. Design should be done for the PCB considering the enclosure details shared below
+2. Dimensions Height < 1.3inches, width < 2.75 inches, length<6.25
+
 #### Important Links
 * [Enclosure Link]([url](https://www.mcmaster.com/7301K13/)https://www.mcmaster.com/7301K13/)
 * [LCD 16 x 2]([url](https://focuslcds.com/product/16x2-stn-character-lcd-c162exbsyly6wt)https://focuslcds.com/product/16x2-stn-character-lcd-c162exbsyly6wt)
