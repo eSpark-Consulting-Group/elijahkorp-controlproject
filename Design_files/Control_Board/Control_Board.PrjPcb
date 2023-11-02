@@ -1,6 +1,6 @@
 ﻿[Design]
 Version=1.0
-HierarchyMode=2
+HierarchyMode=4
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
@@ -115,6 +115,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YRUKVTLX
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Control_Board\Design Rule Check - Control_Board.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
