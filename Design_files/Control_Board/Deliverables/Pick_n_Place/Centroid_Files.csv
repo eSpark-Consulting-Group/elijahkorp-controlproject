@@ -1,4 +1,4 @@
-Designator,MidX(mm),MidY(mm),Layer,Rotation
+Designator,Mid X(mm),Mid Y(mm),Layer,Rotation
 C1,110.9785mm,31.5765mm,Top,0
 C2,9.5051mm,27.3093mm,Top,90
 C3,8.2351mm,27.3093mm,Top,90
@@ -29,7 +29,7 @@ J7,13.6203mm,1.4775mm,Top,180
 J8,26.9299mm,1.4521mm,Top,180
 J9,44.0749mm,1.5283mm,Top,180
 J10,57.1813mm,1.5283mm,Top,180
-J11,44.9987mm,63.7277mm,Top,180
+J11,65.5668mm,51.9378mm,Top,0
 J12,75.7741mm,1.5537mm,Top,180
 J13,2.4693mm,46.0291mm,Top,0
 K1,122.2453mm,45.7967mm,Top,0
