@@ -32,7 +32,7 @@ This project will hold progress and development of the Control Project
 ## Unit Testing v1.0
 ### Number of Assmebled Board received: 2 Boards
 ### Number of Bare Boards received: Nil
-### Details of peripherals received: White LED Button 6 , Red LED Button 3 , AC Power Socket 2 , Coin Cell CR2032 5 , Network Cable 3 , LCD Module 2
+### Details of peripherals received:  White LED Button/ Qty \ 6 , Red LED Button/ Qty \3 , AC Power Socket/ Qty \ 2 , Coin Cell CR2032/ Qty \ 5 , Network Cable/ Qty \ 3 , LCD Module/ Qty \ 2
 
 | S.No       | Status (working / faulty) | Remarks (Cause of fault) | Location (PK / Client) | Board Images (front / back / peripherals) |
 | ----------- | ----------- |-------------| --- | --- |
