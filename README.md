@@ -28,3 +28,12 @@ This project will hold progress and development of the Control Project
 * [Push Button Latching White]([url](https://www.sparkfun.com/products/11975)https://www.sparkfun.com/products/11975)
 * [IEC-A-3]([url](https://www.digikey.com/en/products/detail/adam-tech/IEC-A-3/9832397)https://www.digikey.com/en/products/detail/adam-tech/IEC-A-3/9832397)
 * [AC-C13]([url](https://eu.mouser.com/ProductDetail/CUI-Devices/AC-C13-NA?qs=WyjlAZoYn53BZzqbWMmk0A%3D%3D)https://eu.mouser.com/ProductDetail/CUI-Devices/AC-C13-NA?qs=WyjlAZoYn53BZzqbWMmk0A%3D%3D)
+
+## Unit Testing v1.0
+### Number of Assmebled Board received: 
+### Number of Bare Boards received:
+### Details of peripherals received: 
+
+| S.No       | Status (working / faulty) | Remarks (Cause of fault) | Location (PK / Client) | Board Images (front / back / peripherals) |
+| ----------- | ----------- |-------------| --- | --- |
+| 1      | Working |  | PK | [Board Images](https://drive.google.com/drive/folders/1tmLhA86AJ5KZKhvcY31eBResxszXIj_W?usp=sharing) |
